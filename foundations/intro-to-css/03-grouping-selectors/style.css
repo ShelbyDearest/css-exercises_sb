@@ -6,6 +6,7 @@
 .btn#last-of-type {
     background-color: yellow;
 }
+
 .btn#first-of-type, 
 .btn#last-of-type {
     font-size: 28px;
